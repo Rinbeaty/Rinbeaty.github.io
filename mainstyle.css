@@ -242,6 +242,29 @@ width: 200px;
     margin: 20px;
     width: 500px;
 }
+/*-----------ОШИБКА 404----------------*/
+.E404{
+display: flex;
+
+}
+.E404 img{
+    width: 500px;
+}
+.E404 h1{
+    font-size: 400px;
+    margin: 0 auto;
+    color: #6a957a;
+}
+.E404 h2{
+    margin: 0 auto;
+    font-size: 50px;
+}
+.ErBack{
+    width: 980px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
 /*=====================ФИШКИ=====================*/
 *, *:before, *:after{
 box-sizing: border-box;
