@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:/admin
+Disallow:/support
+Disallow:*&*
+Allow:/404.html
